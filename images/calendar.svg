@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g id="Group_91" data-name="Group 91" transform="translate(-1042 -5)">
+    <rect id="Rectangle_41" data-name="Rectangle 41" width="32" height="32" transform="translate(1042 5)" fill="#4d4d4d" opacity="0.004"/>
+    <g id="passage-of-time" transform="translate(1045.673 7.225)">
+      <g id="Layer_1_65_" transform="translate(0 1.775)">
+        <g id="Group_86" data-name="Group 86">
+          <path id="Path_75" data-name="Path 75" d="M25.122,11.6a.53.53,0,0,0-.48-.3H23.074a11.627,11.627,0,1,0-1.361,7.936,1.058,1.058,0,0,0-1.831-1.06A9.53,9.53,0,1,1,20.91,11.3H19.355a.529.529,0,0,0-.407.868l2.645,3.173a.529.529,0,0,0,.812,0l2.645-3.173A.529.529,0,0,0,25.122,11.6Z" transform="translate(0 -1.775)" fill="#fff"/>
+          <path id="Path_76" data-name="Path 76" d="M20.121,6.713a1.058,1.058,0,0,0-1.058,1.058v6.418a1.849,1.849,0,0,0,1.058,3.367,1.828,1.828,0,0,0,.781-.179L24.582,19.5a1.047,1.047,0,0,0,.528.142,1.057,1.057,0,0,0,.529-1.974l-3.683-2.127a1.842,1.842,0,0,0-.776-1.353V7.771A1.06,1.06,0,0,0,20.121,6.713Zm0,9.784a.793.793,0,1,1,.793-.793A.794.794,0,0,1,20.121,16.5Z" transform="translate(-8.485 -4.068)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

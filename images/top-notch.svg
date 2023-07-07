@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="156" height="156" viewBox="0 0 156 156">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.759" y1="0.035" x2="-0.046" y2="1.146" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#244ec9"/>
+      <stop offset="1" stop-color="#122765"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.771" y1="1.181" x2="0.231" y2="0.331" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#11204d"/>
+      <stop offset="1" stop-color="#244ec9"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_179" data-name="Group 179" transform="translate(-597 -2128)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="78" cy="78" r="78" transform="translate(597 2128)" fill="#dfe7fc"/>
+    <g id="Group_168" data-name="Group 168" transform="translate(-10620 -1506)">
+      <g id="credit-card_3_" data-name="credit-card(3)" transform="translate(11242.239 3642.765)">
+        <path id="Path_527" data-name="Path 527" d="M91.163,65.362l-8.186-3.7V38.447a6.219,6.219,0,0,0-6.212-6.212H17.082a6.219,6.219,0,0,0-6.212,6.212v4.658H6.2A6.212,6.212,0,0,0,0,49.31V86.361a6.212,6.212,0,0,0,6.2,6.2H46.856a17.63,17.63,0,0,0,6.2,9.181l14.577,11.019a2.718,2.718,0,0,0,3.278,0l14.565-11.02c4.763-3.6,7.281-9.5,7.281-17.062V67.838A2.718,2.718,0,0,0,91.163,65.362ZM16.306,38.447a.787.787,0,0,1,.777-.777H76.765a.787.787,0,0,1,.777.777V59.2l-5.435-2.458V49.31a6.212,6.212,0,0,0-6.2-6.2h-49.6Zm31.6,26.667L5.435,64.861v-5.45H60.522ZM6.2,48.541H65.9a.78.78,0,0,1,.769.769v4.666H5.435V49.31A.78.78,0,0,1,6.2,48.541Zm0,38.59a.78.78,0,0,1-.769-.769V70.3l40.336.24v14.14q0,1.259.095,2.454H6.2Zm81.121-2.448c0,5.872-1.724,10.155-5.125,12.728l-12.926,9.78-12.938-9.78c-3.4-2.574-5.131-6.858-5.131-12.734V69.589l18.06-8.166,18.06,8.168Z" fill="#2045b3"/>
+        <path id="Path_528" data-name="Path 528" d="M341.174,280.4a2.718,2.718,0,0,0-3.843,3.843l4.266,4.266a2.717,2.717,0,0,0,3.843,0l8.914-8.914a2.718,2.718,0,0,0-3.843-3.843l-6.992,6.992Z" transform="translate(-275.564 -198.745)"/>
+      </g>
+      <g id="credit-card_2_" data-name="credit-card(2)" transform="translate(11235.743 3682)">
+        <g id="Group_165" data-name="Group 165" transform="translate(0 0)" opacity="0">
+          <path id="Path_521" data-name="Path 521" d="M72.969,146.81H6.87a6.943,6.943,0,0,1-6.87-7V98.02a6.943,6.943,0,0,1,6.87-7h66.1a6.943,6.943,0,0,1,6.87,7v41.791A6.943,6.943,0,0,1,72.969,146.81Z" transform="translate(0 -91.022)" fill="url(#linear-gradient)"/>
+        </g>
+        <rect id="Rectangle_89" data-name="Rectangle 89" width="79.839" height="13.794" transform="translate(0 12.247)" fill="#fff3f3" opacity="0"/>
+        <g id="Group_166" data-name="Group 166" transform="translate(52.692 14.779)">
+          <path id="Path_523" data-name="Path 523" d="M279.695,228.181a3.123,3.123,0,0,1-1.887-.633l-16.781-12.685c-5.489-4.15-8.391-10.945-8.391-19.651V175.823a3.129,3.129,0,0,1,1.84-2.851l23.919-10.815a3.13,3.13,0,0,1,2.578,0l23.919,10.818a3.129,3.129,0,0,1,1.839,2.851v19.392c0,8.7-2.9,15.493-8.382,19.642l-16.767,12.687A3.125,3.125,0,0,1,279.695,228.181Z" transform="translate(-252.636 -161.88)" fill="url(#linear-gradient-2)"/>
+        </g>
+        <g id="Group_167" data-name="Group 167" transform="translate(65.452 34.71)">
+          <path id="Path_525" data-name="Path 525" d="M325.409,281.265a4.5,4.5,0,0,1-3.19-1.322l-7.083-7.083a4.512,4.512,0,0,1,6.381-6.381l3.892,3.892,11.609-11.609a4.512,4.512,0,0,1,6.381,6.381l-14.8,14.8A4.5,4.5,0,0,1,325.409,281.265Z" transform="translate(-313.814 -257.441)" fill="#fff3f3"/>
+        </g>
+        <path id="Path_526" data-name="Path 526" d="M398.012,258.763a4.512,4.512,0,0,0-6.381,0l-8.812,8.812V280.29a4.578,4.578,0,0,0,.394-.347l14.8-14.8A4.512,4.512,0,0,0,398.012,258.763Z" transform="translate(-302.975 -222.731)" fill="#e9dfda"/>
+      </g>
+    </g>
+  </g>
+</svg>
